@@ -1,0 +1,7 @@
+-p q
+-l -m p
+-b -l m
+-a -p l
+-a -b l
+a
+b
